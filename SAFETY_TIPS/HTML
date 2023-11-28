@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DEWI</title>
+	<link rel = "icon" href = "FAVICON2.png" type = "image/x-icon"> 
+    <link rel="stylesheet" type="text/css" href="ALL.CSS">
+	
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    
+</head>
+<body>
+	<div class="container">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="login.html"><h1>DEWI</h1></a>
+		<button class="navbar-toggler" type="button" aria-controls="newsMenu" aria-expanded="false" aria-label="toggleNavigation" data-target="#Menu" data-toggle="collapse">
+		<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="Menu">
+			<div class="navbar-nav">
+				<a href="index.html" class="nav-link nav-item">Login/Signup</a>
+				<a href="about.html" class="nav-link nav-item">About</a>
+				<a href="selfDefence.html" class="nav-link nav-item">Self Defence Techniques</a>
+				<a href="tips.html" class="nav-link nav-item active">Safety Tips</a>
+				<a href="contact.html" class="nav-link nav-item">Contact</a>
+                <button type="button" class="btn btn-danger">EMERGENCY</button>
+			</div>
+		</div>
+		</nav>
+
+		<div class="row">
+			<div class="col-md-12">
+				<div class="jumbotron">
+					<h2 class="display-4" style="font-family: sans-serif;color: #F012BE;">Safety Tips for Women</h2>
+					<hr class="my-4">
+					<h5 style="color: #85144b;">Criminals often tend to view women as being more vulnerable and softer targets than men. Don’t be an easy victim and constantly educate yourself on ways to stay safe. Start off with these safety tips for women</h5>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+		<div class="col-md-12">
+			<div class="card">
+				<p style="font-family: Brush Script MT;font-size: 80px;text-align: center;color: #7FDBFF;">"Safety doesn't happen by accident"</p>
+				<h3>Life-saving safety tips for women - </h3>
+				<p class="card-text">
+					<h5>1.       Be aware of your surroundings. Don’t let your guard down</h5>
+					a.       If things seem even a slight unsafe get out of that place immediately
+					<br>
+					<br>
+					<h5>2.       Please trust and make good use of your ‘gut feel’ or ‘intuition’ or ‘sixth sense’ in each & every place and situation</h5>
+					a.       There will invariably be signs, however small or seemingly insignificant, that tell or alarm you that all is just not OK. You may not understand it or be able to analyze it consciously, but please do NOT ignore it. It is your personal threat alarm beeping
+					<br>
+					b.      Make it a habit to read and notice these warning signs and go with your intuition to quickly retract yourself, move out or immediately get away from potentially unsafe situations
+					<br>
+					<br>
+					<h5>3.       Don’t take eve teasing lightly</h5>
+					a.       Respond with a stern voice
+					<br>
+					b.      Threaten to take a picture which might scare them away
+					<br>
+					c.       If the eve teasing still persists then immediately raise your voice to gather a crowd
+					<br>
+					<br>
+					<h5>4.       As much as possible avoid late night travel using public transport</h5>
+					a.       If avoiding is not possible then be sure to travel only on crowded bus
+					<br>
+					b.      Avoid taking road side cabs
+					<br>
+					c.       Avoid using a bus which has no passenger or few passenger
+					<br>
+					<br>
+					<h5>5.       While using 2 wheeler be sure to wear helmet at all times (especially at night). Don’t stop for any stranger</h5>
+					a.       In case attacked, use your helmet to defend yourself
+					<br>
+					<br>
+					<h5>6.       While driving a car:</h5>
+					a.       Avoid parking at desolate area
+					<br>
+					b.      Look inside the car especially the back seat before unlocking & entering
+					<br>
+					c.       Lock the doors immediately after entering the car
+					<br>
+					d.      Start the car & drive off rather then call someone. Calls can wait
+					<br>
+					e.      Don’t give lift to strangers
+					<br>
+					f.        Don’t stop your car for strangers, especially at night
+					<br>
+					g.       Take known routes, avoid short cuts which you don’t know
+					<br>
+					<br>
+					<h5>7.       While travelling at night don’t keep your phone in your hand</h5>
+					a.       Remember phone is the first thing your attacker will throw away
+					<br>
+					b.      Activate your speed dials which can be used to dial numbers in emergency
+					<br>
+					c.       Keep it in your pocket or at a place from where you can easily take it out & dial a number & leave it on
+					<br>
+					d.      Once the number has been dialled start shouting & try to speak out your location so that the other person can inform police about your location
+					<br>
+					e.      If you have a smart phone then install emergency apps which can send sms to known people & can even dial police no. in case of emergency
+					<br>
+					<br>
+					<h5>8.       After getting dropped don’t stay outside to take a call</h5>
+					a.       Take calls on your phone only when you have entered your home & not outside
+					<br>
+					<br>
+					<h5>9.       If you feel that someone is following you immediately rush to a crowded place & if need to be don’t be embarrassed to shout & gain attention</h5>
+					a.       Don’t be embarrassed to share such things with your family & friends
+					<br>
+					<br>
+					<h5>10.   In case you are in a sticky situation don’t be afraid to use anything in your hand to defend yourself</h5>
+					a.       Use keys, bottle even your purse to inflict damage to your attacker
+					<br>
+					<br>
+					<h5>11.   Following are the most vulnerable areas to attack:</h5>
+					a.       Use your knees to hit hard between the legs of the attacker
+					<br>
+					b.      Using your fingers to poke hard in the eyes
+					<br>
+					c.       Hitting front part of the neck on the Adams apple will leave him in a shock
+					<br>
+					d.      Punching in the stomach will leave the attacker breathless & unable to chase you
+					<br>
+					e.      Hitting hard in the chest area
+					<br>
+					<br>
+					<h5>12.   In case you feel you are being stalked or regularly followed, don’t keep it to yourself because what might be on lighter side now might become dangerous if not controlled</h5>
+					a.       Seek help of friends & family
+					<br>
+					b.      If need be approach police immediately
+				</p>
+			</div>
+		</div>
+	</div>
+	</div>
+	</div>
+</body>
+</html>
