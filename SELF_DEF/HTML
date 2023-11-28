@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DEWI</title>
+	<link rel = "icon" href = "FAVICON2.png" type = "image/x-icon"> 
+    <link rel="stylesheet" type="text/css" href="ALL.CSS">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</head>
+<body>
+	<div class="container">
+
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="login.html"><h1>DEWI</h1></a>
+		<button class="navbar-toggler" type="button" aria-controls="newsMenu" aria-expanded="false" aria-label="toggleNavigation" data-target="#Menu" data-toggle="collapse">
+		<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="Menu">
+			<div class="navbar-nav">
+				<a href="login.html" class="nav-link nav-item">Login/Signup</a>
+				<a href="about.html" class="nav-link nav-item">About</a>
+				<a href="selfDefence.html" class="nav-link nav-item active">Self Defence Techniques</a>
+				<a href="tips.html" class="nav-link nav-item">Safety Tips</a>
+				<a href="contact.html" class="nav-link nav-item">Contact</a>
+                <button type="button" class="btn btn-danger">EMERGENCY</button>
+			</div>
+		</div>
+	</nav>
+
+	<div class="row">
+		<div class="col-md-12">
+			<div class="jumbotron">
+				<h2 class="display-4">Self Defence Techniques</h2>
+				<hr class="my-4">
+				<p>Any woman can do these no matter how big or heavy the attacker is.</p>
+				<button type="button" class="btn btn-danger">SIGN UP NOW</button>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-12">
+			<h4 class="text-center">For starters, memorize the vulnerable places.</h3>
+			<hr class="my-4">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-12">
+			<div class="card">
+				<img src="main.jpg" class="card-img-top img-fluid">
+			</div>
+		</div>
+	</div>
+
+	<div class="row mt-5">
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="1.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">The simplest and most effective moves</h5>
+					<p class="card-text">Grab his little finger and his ring finger with one hand, and his middle and index finger with the other and bend the wrist forward.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="one.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Hitting on Adam's Apple</h5>
+					<p class="card-text">If you can’t grab your opponent’s hand, hit him with a fist or with a finger between the collarbones or into his Adam’s apple.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="two.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">The most obvious area for an attack is the groin.</h5>
+					<p class="card-text">Hitting this area will literally paralyze the attacker and you will have just enough time to escape.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row mt-5">
+		<div class="col-md-6 col-sm-12 col-s-12">
+			<div class="card">
+				<img src="three.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">If you were grabbed from the front</h5>
+					<p class="card-text">If you were grabbed from the front and you can’t lift your hands, then move your hands forward and make a fist in front of your pelvis. This will create enough room between you and the attacker.
+					</p>
+					<p class="card-text">
+					After that, hit the attacker’s nose with your forehead. This will make the attacker move away from you. Now hit him in the groin with your knee.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12 col-s-12">
+			<div class="card">
+				<img src="4.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Protecting yourself using your palm</h5>
+					<p class="card-text">Straighten your left arm and hit the attacker on his chin and nose with your right arm. Then, hit him in the groin. This way the attacker will be disoriented for a long time and he won’t be able to move.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row mt-5">
+		<div class="col-md-6 col-sm-12 col-s-12">
+			<div class="card">
+				<img src="five.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">How to free your hands</h5>
+					<p class="card-text">You can easily escape a stronghold if you remember the “rule of thumb”: rotate your arm to the side of the attacker’s thumb.
+					</p>
+					<p class="card-text">
+					If he is holding your arm tightly, rotate your wrist toward the thumb. When your arm is under the attacker’s, pull your arm as strongly as you can.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12 col-s-12">
+			<div class="card">
+				<img src="six.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">If you were grabbed from behind</h5>
+					<p class="card-text">To set yourself free, quickly bend back and try to hit the attacker with the back of your head. It’s OK if you can’t do it: the point is to make the attacker put one of his legs forward.
+					</p>
+					<p class="card-text">
+					Now quickly bend down, grab his leg and get up pulling it with you. Now the attacker will lose balance and you will be able to drop even the biggest opponent.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row mt-5">
+		<div class="col-md-6 col-sm-12 col-s-12">
+			<div class="card">
+				<img src="seven.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">If you were approached and grabbed from the side</h5>
+					<p class="card-text">
+						An elbow hit is one of the most dangerous hits in all kinds of martial arts. This is exactly the hit you need if you are approached from the side.
+					</p>
+					<p class="card-text">
+						Hit the attacker’s temple, jaw, or nose with an arched move. After this, the attacker will take a few steps back. Now hit him in his belly or chest. Elbow hits are so strong that they will disorient any opponent.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-sm-12 col-s-12">
+			<div class="card">
+				<img src="8.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">If you were pushed against the wall</h5>
+					<p class="card-text">
+						•	If both of the attacker’s arms are up, then straighten your palm and hit him in the armpit.
+					<p class="card-text">
+						•	If one of your arms is down, there is a chance you can hit the opponent in his chest, neck, or jaw.
+					</p>
+					</p>
+					<p class="card-text">
+						•	But one of the most effective and powerful hits is a hit with your head. Squat a little to be lower than the opponent. Then quickly jump up and hit him in the jaw with your forehead. This move will instantly disorient the attacker and give you a chance to escape.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	</div>
+</body>
+</html>
