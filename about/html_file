@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DEWI</title>
+	<link rel = "icon" href = "FAVICON2.png" type = "image/x-icon"> 
+    <link rel="stylesheet" type="text/css" href="ALL.CSS">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+   
+
+</head>
+<body>
+	<div class="container">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light ">
+		<a class="navbar-brand" href="login.html"><h1>DEWI</h1></a>
+		<button class="navbar-toggler" type="button" aria-controls="newsMenu" aria-expanded="false" aria-label="toggleNavigation" data-target="#Menu" data-toggle="collapse">
+		<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="Menu">
+			<div class="navbar-nav">
+				<a href="login.html" class="nav-link nav-item">Login/Signup</a>
+				<a href="about.html" class="nav-link nav-item active">About</a>
+				<a href="selfDefence.html" class="nav-link nav-item">Self Defence Techniques</a>
+				<a href="tips.html" class="nav-link nav-item">Safety Tips</a>
+				<a href="contact.html" class="nav-link nav-item">Contact</a>
+
+              
+                <button type="button" class="btn btn-danger">EMERGENCY</button>
+			</div>
+		</div>
+		</nav>
+
+		<div class="row">
+			<div class="col-md-12">
+				<div class="jumbotron">
+					<h2 class="display-4" style="font-family: Lucida Bright;color: orange;">Mission & Vision</h2>
+					<hr class="my-4">
+					<h5 style="color: #F012BE;">
+						"There is no chance of the welfare of the world unless the condition of women is improved. It is not possible for a bird to fly on one wing." 
+						<br>
+						<br>
+						<p style="text-align: right;font-family: Brush Script MT;font-size: 40px;color: maroon;">- Swami Vivekananda</p>
+					</h5>
+				</div>
+			</div>
+		</div>
+
+		<div class="row mt-5">
+		<div class="col-md-6 col-s-12">
+			<div class="card">
+				<img src="1.jpg" class="card-img-top">
+				<div class="card-body">
+					<h3 class="card-title">Mission</h3>
+					<p class="card-text">
+						To Provide an integrated response to women and children experiencing torture, voilence and through the provision of specialised, accessile and flexible application and website "EASE"
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 col-s-12">
+			<div class="card">
+				<img src="2.jpg" class="card-img-top">
+				<div class="card-body">
+					<h3 class="card-title">Vision</h3>
+					<p class="card-text">
+						We value and are committed to provide safety, equity and respect to all human.
+					</p>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>
