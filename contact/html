@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DEWI</title>
+	<link rel = "icon" href = "FAVICON2.png" type = "image/x-icon"> 
+    <link rel="stylesheet" type="text/css" href="ALL.CSS">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</head>
+<body>
+	<div class="container">
+		
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="login.html"><h1>DEWI</h1></a>
+		<button class="navbar-toggler" type="button" aria-controls="newsMenu" aria-expanded="false" aria-label="toggleNavigation" data-target="#Menu" data-toggle="collapse">
+		<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="Menu">
+			<div class="navbar-nav">
+				<a href="login.html" class="nav-link nav-item">Login/Signup</a>
+				<a href="about.html" class="nav-link nav-item">About</a>
+				<a href="selfDefence.html" class="nav-link nav-item">Self Defence Techniques</a>
+				<a href="tips.html" class="nav-link nav-item">Safety Tips</a>
+				<a href="contact.html" class="nav-link nav-item active">Contact</a>
+                <button type="button" class="btn btn-danger">EMERGENCY</button>
+			</div>
+		</div>
+		</nav>
+
+		<div class="row">
+			<div class="col-md-12">
+				<div class="jumbotron">
+					<h2 class="display-4" style="font-family: sans-serif;color: #F012BE;">Top 11 Organizations in India for Reporting Cases of Molestation, Rape, and Sexual Abuse in 2020</h2>
+					<hr class="my-4">
+					<h5 style="color: #FF851B;">
+						Some of the organizations and NGOs in India have taken the issue into their hands. They are offering a helping hand to women victims to molestation, rape, sexual assault, and child sexual abuse. If you are the victim or are aware or know someone who needs help, don’t think twice before reaching out on any of these rape hotline online address or number.
+					</h5>
+				</div>
+			</div>
+		</div>
+
+		<div class="row mt-5">
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="1.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">National Commission for Women</h5>
+					<p class="card-text">
+						Contact: +91-11-26944880, +91-11-26944883
+						<br>
+						Email: complaintcell-ncw@nic.in
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="three.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Women Helpline (All India)- Women in India</h5>
+					<p class="card-text">
+						Contact: 1091
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="four.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">The Pranjya Trust</h5>
+					<p class="card-text">
+						Contact: +914424811255
+						<br>
+						Email: prajnyatrust@gmail.com
+					</p>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<div class="row mt-5">
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="5.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">ActionAid India</h5>
+					<p class="card-text">
+						Contact: +91 80 25586293 (9 AM – 6 PM)
+						<br>
+						Address:  ActionAid India Head Office (Country Office) R 7, Hauz Khas Enclave, New Delhi 110016
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="six.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Snehalaya</h5>
+					<p class="card-text">
+						Contact: +91 0241 2778353
+						<br>
+						Email: give@snehalaya.org
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="7.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Majlis</h5>
+					<p class="card-text">
+						Contact: 91-22-26662394 / 26661252
+						<br>
+						Email: majlislaw@gmail.com					
+					</p>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<div class="row mt-5">
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="8.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Azad Foundation</h5>
+					<p class="card-text">
+						Contact: +91 11 4060 1878
+						<br>
+						Email: azadfoundation@gmail.com
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="9.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">International Center for Research on Women</h5>
+					<p class="card-text">
+						Contact: 011 4664 3333
+						<br>
+						Email: info.india@icrw.org
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="10.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Aasra</h5>
+					<p class="card-text">
+						Contact: +91-9820466726
+						<br>
+						Email: aasrahelpline@yahoo.com
+					</p>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<div class="row mt-5">
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="eleven.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">SNEHA</h5>
+					<p class="card-text">
+						Contact: +91 91675 35765
+						<br>
+						Email: crisis@snehamumbai.org
+					</p>
+				</div>
+			</div>
+		</div>		
+		<div class="col-md-4 col-sm-6 col-s-12">
+			<div class="card">
+				<img src="2.jpg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Guria India</h5>
+					<p class="card-text">
+						Contact:    91-542-2504253
+						<br>
+						Email:   info@guriaindia.org
+					</p>
+				</div>
+			</div>
+		</div>
+		</div>
+
+	</div>
+</body>
+</html>
